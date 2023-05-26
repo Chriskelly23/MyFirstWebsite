@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/download.jpg) ;
+    background-size: 1000px;
+}
+h1{
+    color:rgb(253, 4, 4);
+    text-decoration:underline;
+}
+
+P{
+    border-style:outset;
+    border: width 5px;
+    border-color: darkred;
+    padding:20px;
+    color: rgb(255, 0, 0);
+}
